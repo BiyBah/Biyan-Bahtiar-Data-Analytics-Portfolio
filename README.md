@@ -14,10 +14,10 @@ Hi, this repository contains the projects I've done in Data field. Please reach 
 5. Data visualization
 6. Data communication and story-telling
 7. Unsupervised machine learning
-K-means, hierarchical clustering, DBSCAN, Gaussian Mixture Model, PCA, T-SNE.\
+K-means, hierarchical clustering, DBSCAN, Gaussian Mixture Model, PCA, T-SNE.
 8. Supervised machine learning
 Classification task: logistic regression, SVM, decision tree, random forest, gradient boosting.\
-Regression task: simple and multiple linear regression, SVM, decision tree, random forest, gradient boosting.\
+Regression task: simple and multiple linear regression, SVM, decision tree, random forest, gradient boosting.
 9. Statistics
 Experiment design, sampling, descriptive statistics, hypotesis testing, T-test, chi-square, ANOVA. 
 
