@@ -36,6 +36,7 @@ Aggregate functions, conditionals (IF, IFS), lookup, JOIN, CONCATENATE, statisti
 6. Power BI
 7. Shell script
 8. Airflow
+9. Dbeaver
 ## Award
 1st-place winner Bandung Datathon 2023.\
 Theme: Innovation in public health.\
