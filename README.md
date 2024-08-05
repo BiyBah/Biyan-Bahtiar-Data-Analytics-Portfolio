@@ -14,15 +14,17 @@ Please find my portfolios above!
 Data cleaning, data visualization, statistical analysis, and extracting insights.
 
 **Tools & Technologies:**
-Proficient in Microsoft Excel (VBA, Dashboard, Pivot Table, Aggregations, Lookups, Conditionals), 
-Python (pandas, seaborn, scipy, sklearn, statsmodels), 
-SQL (Aggregation, GROUP BY, Window function, CTE)
+- Proficient in Microsoft Excel (VBA, Dashboard, Pivot Table, Aggregations, Lookups, Conditionals),
+- Python (pandas, seaborn, scipy, sklearn, statsmodels), 
+- SQL (Aggregation, GROUP BY, Window function, CTE)
+- BI Tools (Power BI, Looker Studio, Tableau)
 
 I'm currently pursuing data engineering course, learning relational database best practices and docker.
 
 ## Let's Connect!
-biyan.bahtiar@gmail.com
-https://www.linkedin.com/in/biyan-bahtiar-ramadhan/
+[Email](mailto:biyan.bahtiar@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/biyan-bahtiar-ramadhan/)
 
 
 
